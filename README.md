@@ -23,3 +23,4 @@ Run commands
 3) ```yarn run dev```
 
 
+https://amazon-clone-app-phi.vercel.app/
